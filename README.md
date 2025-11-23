@@ -9,6 +9,6 @@
 /docs/             # brand guidelines, fonts list, licenses
 /assets/           # fonts (if license allows), icons, textures
 /.github/          # workflows, ISSUE_TEMPLATES (optional)
-/README.md
+/README.md E:\Freelance\Contest Image
 /.gitignore
 /.gitattributes
